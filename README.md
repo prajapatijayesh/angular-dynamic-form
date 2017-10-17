@@ -1,6 +1,11 @@
 # Angular Dynamic Form
 
-Dynamically Building Forms
+<ul>
+  <li>Dynamically Building Forms</li>
+  <li>Get an array of form controls from an API call</li>
+  <li>Render this list to form</li>
+  <li>Reactive form validation</li>
+</ul>
 
 ## Running the Sample
 <ol>
